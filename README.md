@@ -4,7 +4,7 @@ This repository makes available a comprehensive failure dataset of Linux obtaine
 
 Besides the raw data, this repository also provides the full list of failure detectors and system metrics collected throughout the experiments. Be aware that not every experiment will have all the metrics, which can be due to either the injected faults or transient processes. These details can be found in the [appendix](./appendix.pdf).
 
-Due to its dimension, the data is currently hosted [here](https://deiucpt-my.sharepoint.com/:f:/g/personal/jrcampos_dei_uc_pt/EpiYpLzRsG9MlxzGHyh9kt4BtwPXRsEA2YMNlGUHiTbmWQ?e=vLEstb).
+Due to its size, the data is currently hosted [here](https://deiucpt-my.sharepoint.com/:f:/g/personal/jrcampos_dei_uc_pt/EpiYpLzRsG9MlxzGHyh9kt4BtwPXRsEA2YMNlGUHiTbmWQ?e=vLEstb).
 
 Each experiment has the following structure:
 
