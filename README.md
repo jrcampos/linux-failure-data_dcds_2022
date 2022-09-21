@@ -1,6 +1,6 @@
 # A Dataset of Linux Failure Data for Dependability Evaluation and Improvement
 
-This repository makes available a comprehensive failure dataset of Linux obtained through fault injection. Further details can be found in the paper **A Dataset of Linux Failure Data for Dependability Evaluation and Improvement** (currently under revision).
+This repository makes available a comprehensive failure dataset of Linux obtained through fault injection. Further details can be found in the paper [A Dataset of Linux Failure Data for Dependability Evaluation and Improvement](https://ieeexplore.ieee.org/document/9833839).
 
 Besides the raw data, this repository also provides the full list of failure detectors and system metrics collected throughout the experiments. Be aware that not every experiment will have all the metrics, which can be due to either the injected faults or transient processes. These details can be found in the [appendix](./appendix.pdf).
 
